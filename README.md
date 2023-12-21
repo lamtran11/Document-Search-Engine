@@ -1,1 +1,1 @@
-The text
+A simple document search engine using Java programming. It has these main features: Load documents from text files, search for documents by a key phrase, rank search results based on several criteria, generate HTML search results with highlighted keywords
